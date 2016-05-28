@@ -1,0 +1,35 @@
+.main_font {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.wrapper {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    background: deeppink;
+    font-family: 'Lobster', cursive;
+}
+
+.subtitle {
+    text-align: center;
+    color: deeppink;
+    font-family: 'Lobster', cursive;
+}
+
+.ingredients {
+    list-style-type: square;
+}
+
+.main_image {
+    width: 700px;
+    border-radius: 20px;
+}
+
+.step_image {
+    float: left;
+    margin-right: 10px;
+}
